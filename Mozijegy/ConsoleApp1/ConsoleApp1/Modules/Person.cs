@@ -6,22 +6,58 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1.Modules
 {
-    internal class Person
+    class Person
     {
-        private static string _vezeteknev;
-        private static string _keresztnev;
+        
+        private string vezeteknev;
+        private string keresztnev;
 
-        public Person(string vezeteknev, string keresztnev)
+        
+        public string Vezeteknev
         {
-            vezeteknev=vezeteknev.Trim();
-            keresztnev = keresztnev.Trim();
+            get { return vezeteknev; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                    throw new ArgumentException("A vezetéknév nem lehet üres!");
+
+                vezeteknev = value.Trim();
+            }
         }
 
+        public string Keresztnev
+        {
+            get { return keresztnev; }
+            set
+            {
+                if (string.IsNullOrWhiteSpace(value))
+                    throw new ArgumentException("A keresztnév nem lehet üres!");
 
-        public static string Vezeteknev { get => _vezeteknev; set => _vezeteknev = value; }
-        public static string Keresztnev { get => _keresztnev; set => _keresztnev = value; }
+                keresztnev = value.Trim();
+            }
+        }
 
+        
+        public Person(string vezeteknev, string keresztnev)
+        {
+            Vezeteknev = vezeteknev;
+            Keresztnev = keresztnev;
+        }
 
+        
+        public Person(string vezeteknev)
+        {
+            Vezeteknev = vezeteknev;
+            Keresztnev = "Ismeretlen";
+        }
 
+        
+        public override string ToString()
+        {
+            return $"{Vezeteknev} {Keresztnev}";
+        }
     }
+
+
 }
+
