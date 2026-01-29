@@ -1,36 +1,124 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ML\\Projekt\\Mozijegy\\ConsoleApp1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|d:\\ma\\mozijegykezelo\\mozijegy\\consoleapp1\\consoleapp1\\modules\\mozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\modules\\mozi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|d:\\ma\\mozijegykezelo\\mozijegy\\consoleapp1\\consoleapp1\\modules\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\modules\\databasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|d:\\ma\\mozijegykezelo\\mozijegy\\consoleapp1\\consoleapp1\\modules\\jegy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\modules\\jegy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|d:\\ma\\mozijegykezelo\\mozijegy\\consoleapp1\\consoleapp1\\modules\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\modules\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|d:\\ma\\mozijegykezelo\\mozijegy\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|d:\\ma\\mozijegykezelo\\mozijegy\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{65036217-FBB4-4C41-A167-4A359AFFE109}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-<<<<<<< HEAD
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Mozi.cs",
+              "DocumentMoniker": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Modules\\Mozi.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Modules\\Mozi.cs",
+              "ToolTip": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Modules\\Mozi.cs",
+              "RelativeToolTip": "ConsoleApp1\\Modules\\Mozi.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:16:00.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Databasehandler.cs",
+              "DocumentMoniker": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Modules\\Databasehandler.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Modules\\Databasehandler.cs",
+              "ToolTip": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Modules\\Databasehandler.cs",
+              "RelativeToolTip": "ConsoleApp1\\Modules\\Databasehandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:15:49.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Jegy.cs",
+              "DocumentMoniker": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Modules\\Jegy.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Modules\\Jegy.cs",
+              "ToolTip": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Modules\\Jegy.cs",
+              "RelativeToolTip": "ConsoleApp1\\Modules\\Jegy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T08:06:33.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Modules\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Modules\\Person.cs",
+              "ToolTip": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Modules\\Person.cs",
+              "RelativeToolTip": "ConsoleApp1\\Modules\\Person.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:58:37.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T07:58:26.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\MA\\Mozijegykezelo\\Mozijegy\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-22T10:18:54.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-22T10:18:54.794Z"
             }
           ]
         }
       ]
-=======
-      "DocumentGroups": []
->>>>>>> f95e9c21fb720cfbf5daad623a7d4f29b5ac2ee3
     }
   ]
 }
